@@ -1,0 +1,13 @@
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#h{
+  color: green;
+  font-family: 'Poppins';
+  font-weight: 600;
+}
+body{
+  background-color: #514D77;
+}
